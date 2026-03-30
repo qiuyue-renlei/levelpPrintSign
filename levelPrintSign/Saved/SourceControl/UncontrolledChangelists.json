@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal/levelpPrintSign/levelPrintSign/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/JG/I0B1YU2KXOXIVS16ELY4QH.uasset",
+				"D:/unreal/levelpPrintSign/levelPrintSign/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"D:/unreal/levelpPrintSign/levelPrintSign/Content/BP_Receiver.uasset",
+				"D:/unreal/levelpPrintSign/levelPrintSign/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/71/B3VZ6Q98XHLHZPDIAXDRUZ.uasset"
+			]
+		}
+	]
+}
